@@ -1,0 +1,11 @@
+ssh c1 'sudo apt update && sudo apt full-upgrade -y'
+ssh c2 'sudo apt update && sudo apt full-upgrade -y'
+ssh c3 'sudo apt update && sudo apt full-upgrade -y'
+ssh c4 'sudo apt update && sudo apt full-upgrade -y'
+ssh c5 'sudo apt update && sudo apt full-upgrade -y'
+ssh c6 'sudo apt update && sudo apt full-upgrade -y'
+ssh c7 'sudo apt update && sudo apt full-upgrade -y'
+ssh c8 'sudo apt update && sudo apt full-upgrade -y'
+ssh c9 'sudo apt update && sudo apt full-upgrade -y'
+ssh ctl 'sudo apt update && sudo apt full-upgrade -y'
+
