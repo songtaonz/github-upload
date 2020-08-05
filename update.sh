@@ -8,4 +8,5 @@ ssh c7 'sudo apt update && sudo apt full-upgrade -y'
 ssh c8 'sudo apt update && sudo apt full-upgrade -y'
 ssh c9 'sudo apt update && sudo apt full-upgrade -y'
 ssh ctl 'sudo apt update && sudo apt full-upgrade -y'
+ssh ctl2 'sudo apt update && sudo apt full-upgrade -y'
 
