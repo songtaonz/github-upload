@@ -1,0 +1,7 @@
+ssh c1 'lsb_release -a'
+ssh c2 'lsb_release -a'
+ssh c3 'lsb_release -a'
+ssh c4 'lsb_release -a'
+ssh c5 'lsb_release -a'
+ssh c6 'lsb_release -a'
+ssh c7 'lsb_release -a'

@@ -1,6 +1,7 @@
+ssh c1 'reboot'
+ssh c2 'reboot'
 ssh c3 'reboot'
 ssh c4 'reboot'
 ssh c5 'reboot'
 ssh c6 'reboot'
 ssh c7 'reboot'
-ssh c8 'reboot'
